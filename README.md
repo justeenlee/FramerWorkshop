@@ -4,18 +4,18 @@ Created for IxDA Workshop on 11/12
 
 images links:
 
-content:
+content(2125px):
 https://raw.githubusercontent.com/justeenlee/FramerWorkshop/master/content.png
 
-designmilk:
+designmilk(1334px):
 https://raw.githubusercontent.com/justeenlee/FramerWorkshop/master/designmilk.PNG
 
-header:
+header(107px):
 https://raw.githubusercontent.com/justeenlee/FramerWorkshop/master/header.jpg
 
-nav:
+nav(39px):
 https://raw.githubusercontent.com/justeenlee/FramerWorkshop/master/nav.jpg
 
-menu:
+menu(89px):
 https://raw.githubusercontent.com/justeenlee/FramerWorkshop/master/menu.jpg
 
